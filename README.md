@@ -27,7 +27,7 @@ sudo apt update
 sudo apt install mariadb-server
 sudo apt install mariadb-plugin-mroonga
 sudo apt install nginx
-curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
+curl -sL https://deb.nodesource.com/setup_lts | sudo -E bash -
 sudo apt install nodejs
 # install LibertyEngine
 git clone https://github.com/librewiki/liberty-engine.git
