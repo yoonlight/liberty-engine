@@ -30,7 +30,7 @@ sudo apt install nginx
 curl -sL https://deb.nodesource.com/setup_lts | sudo -E bash -
 sudo apt install nodejs
 # install LibertyEngine
-git clone https://github.com/librewiki/liberty-engine.git
+git clone https://github.com/yoonlight/liberty-engine.git
 cd liberty-engine
 npm i
 npm run setup
